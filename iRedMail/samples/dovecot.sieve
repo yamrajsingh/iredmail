@@ -29,7 +29,7 @@
 # For more information, please refer to official documentation:
 # http://wiki.dovecot.org/LDA/Sieve
 
-require ["fileinto", "reject", "include"];
+require "fileinto";
 
 # -------------------------------------------------
 # --------------- Global sieve rules --------------
