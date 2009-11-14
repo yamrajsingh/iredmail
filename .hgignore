@@ -3,3 +3,4 @@ syntax: glob
 *.py[co]
 *.svn
 settings.ini
+wiki/
